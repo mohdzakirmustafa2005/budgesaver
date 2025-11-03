@@ -1,0 +1,5 @@
+{
+  "name": "BudgetSaver",
+  "description": "A UPI payments tracker and budget management system. Users can track their transactions, set budgets for various categories, and monitor their spending to save money effectively. The app features a clean, professional interface with theme settings.",
+  "requestFramePermissions": []
+}
